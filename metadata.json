@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Invitation Jyoti & Mayuresh",
+  "description": "An elegant, interactive digital wedding invitation for Jyoti and Mayuresh featuring their story, event details, active countdown, guest rsvp, and a digital guestbook of wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
